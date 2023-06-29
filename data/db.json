@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
+    },
+    {
+      "id": 2,
+      "title": "Second post",
+      "datetime": "June 25, 2023 1:48:39 PM",
+      "body": "adfswdbgvdwgvg"
+    },
+    {
+      "id": 3,
+      "title": "3rd Post",
+      "datetime": "June 25, 2023 8:40:31 PM",
+      "body": "This is the third post"
+    },
+    {
+      "id": 4,
+      "title": "Fifth Post",
+      "datetime": "June 29, 2023 12:24:06 PM",
+      "body": "Successfully completed React social media project!"
+    }
+  ]
+}
